@@ -1,0 +1,1 @@
+In this file I have practiced some code on python for ml and mlOps purpose.
